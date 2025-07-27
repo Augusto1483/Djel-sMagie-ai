@@ -1,2 +1,13 @@
-# Djel-sMagie-ai
-DjelMagieAI/ └── frontend/     ├── public/     │   └── logo.png     ├── src/     │   ├── Home.js     │   ├── Home.css     │   └── App.js     ├── package.json     └── README.md
+DjelsMagieAI/
+├── frontend/           
+│   ├── src/
+│   ├── public/
+│   │   └── telechargement/
+│   │       └── DjelsMagieAI.zip
+│   └── package.json
+├── backend/            
+│   ├── app.py
+│   ├── premium_codes.json
+│   └── requirements.txt
+├── Dockerfile            
+└── README.md  
